@@ -1,0 +1,8 @@
+{
+  "name": "REGENX",
+  "description": "A circular commerce platform that prevents usable products from becoming waste.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
